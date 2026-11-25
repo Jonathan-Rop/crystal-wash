@@ -60,9 +60,6 @@ This project runs on live data from the Crystal Wash backend API, covering clean
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
 
-- [Space Travelers' Hub Web App Live Demo]()
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👁 Walkthrough <a name="#Walkthrough"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -232,17 +229,13 @@ You can redeploy this project by adding new lines of code to source files.
 
 ### 👤 Jonathan Kiprono
 
-- GitHub: [Benawi](https://github.com/Benawi)
-- Linkdin: [Habtamu](https://www.linkedin.com/in/habtamualemayehu/)
-
+- GitHub: 
+- Linkdin:
+  
 ### 👤 Dylan Cheruiyot
 - GitHub: 
 - Linkdin: 
 
-### 👤 David Katende
-
-- GitHub: 
-- Linkdin: 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
